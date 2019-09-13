@@ -6,7 +6,7 @@ html {
 }
 
 #menu{
-  background:rgba(36,98,164,.7);
+  background:black;
   height: 60px;
   display: flex;
   flex-direction: row;
@@ -22,7 +22,7 @@ html {
 }
 
 #menu a:hover{
-  color:#9E23AF;
+  color:#0070ff;
 }
 
 .banner img{
