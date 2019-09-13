@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+#menu{
+  background:rgba(36,98,164,.7);
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#menu a{
+  font-size: 25px;
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#menu a:hover{
+  color:#9E23AF;
+}
+
+.banner img{
+  margin:0 auto;
+  display: block;
+}
