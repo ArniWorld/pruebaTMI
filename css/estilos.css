@@ -29,3 +29,29 @@ html {
   margin:0 auto;
   display: block;
 }
+
+.cuerpo{
+  display: flex;
+}
+.cuerpo .contenido{
+  width:65%;
+  padding: 20px;
+}
+.cuerpo .contenido p{
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-align: justify;
+}
+.cuerpo .publicidad {
+  width:35%;
+  padding: 10px;
+}
+
+.cuerpo .publicidad img{
+  width:350px;
+}
+.cuerpo .publicidad p{
+  font-size: 20px;
+  line-height: 1.5rem;
+  text-align: justify;
+}
