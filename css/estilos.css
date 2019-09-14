@@ -55,3 +55,14 @@ html {
   line-height: 1.5rem;
   text-align: justify;
 }
+
+.footer{
+  width: 100%;
+  background: black;
+  height: 30px;
+}
+.footer p{
+  color:white;
+  font-size:20px;
+  text-align: center;
+}
